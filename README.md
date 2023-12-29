@@ -1,3 +1,3 @@
 # my-project
 
-# This is a web-demo.
+This is a web-demo.
